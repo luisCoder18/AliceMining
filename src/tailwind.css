@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos personalizados */
+.custom-background {
+  background-color: #f3f4f6; /* Ejemplo de color personalizado */
+}
+
+.custom-text-color {
+  color: #4b5563; /* Ejemplo de color personalizado */
+}
+
+/* Puedes definir clases personalizadas aquí si es necesario */
